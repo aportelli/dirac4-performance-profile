@@ -3,9 +3,9 @@
 - Author(s): 
 - Date:
 - Application:
-- Related DiRAC project:
+- Related DiRAC project(s):
 
-*Please clone this repository by clicking [this link](https://github.com/new?template_name=dirac4-performance-profile&template_owner=aportelli) or the "Use this template" button on GitHub.*
+*Please use this repository by clicking [this link](https://github.com/new?template_name=dirac4-performance-profile&template_owner=aportelli) or the "Use this template" button on GitHub. Please fill the sections below, and add any supporting evidence as links to code or files directly in your clone of this repository. All guidelines in italic can be removed from the final document.*
 
 ## 1. Performance-critical routines
 *Please list here routines that typically dominate a production run. Please provide links and references to the code location of this routines, as we as profiler evidence that these routines are indeed dominant. This should be understood as a best-effort analysis to capture most of the time enveloppe from your typical runs, rather than an exhaustive study. Profiler evidence can be from a third-party profiler, as well as custom instrumentation; for the former please describe succintly how profiling is implemented.*
