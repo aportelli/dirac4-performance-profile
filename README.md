@@ -5,6 +5,8 @@
 - Application:
 - Related DiRAC project:
 
+*Please clone this repository by click the "Use this template" on GitHub.*
+
 ## 1. Performance-critical routines
 *Please list here routines that typically dominate a production run. Please provide links and references to the code location of this routines, as we as profiler evidence that these routines are indeed dominant. This should be understood as a best-effort analysis to capture most of the time enveloppe from your typical runs, rather than an exhaustive study. Profiler evidence can be from a third-party profiler, as well as custom instrumentation; for the former please describe succintly how profiling is implemented.*
 
