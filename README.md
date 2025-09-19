@@ -1,6 +1,6 @@
 # DiRAC 4 Performance profile
 
-- Author: 
+- Author(s): 
 - Date:
 - Application:
 - Related DiRAC project:
